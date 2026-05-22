@@ -400,7 +400,7 @@ with tab3:
     <div class='insight-box'>
         <strong>Demandas:</strong> mayor puntaje = mayor riesgo directo.
         <strong>Recursos:</strong> mayor puntaje = recurso más debilitado.
-        Los tres focos de intervención prioritaria son Intención de retiro, Conflicto T→F Salud Mental Organizacional y Control del trabajo.
+        Los tres focos de intervención prioritaria son Intención de retiro, Conflicto T→F, Salud Mental Organizacional y Control del trabajo.
     </div>
     """, unsafe_allow_html=True)
 
